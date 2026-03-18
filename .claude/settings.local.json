@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__0a8a1ff4-bcd8-4603-a3ee-5315eccf8dee__list_projects",
+      "mcp__0a8a1ff4-bcd8-4603-a3ee-5315eccf8dee__list_tables",
+      "mcp__0a8a1ff4-bcd8-4603-a3ee-5315eccf8dee__execute_sql",
+      "Bash(npm create:*)",
+      "mcp__0a8a1ff4-bcd8-4603-a3ee-5315eccf8dee__get_publishable_keys",
+      "Bash(npm install:*)",
+      "mcp__0a8a1ff4-bcd8-4603-a3ee-5315eccf8dee__apply_migration",
+      "Bash(npx tsc:*)",
+      "Bash(npm run:*)",
+      "mcp__Claude_Preview__preview_start",
+      "mcp__0a8a1ff4-bcd8-4603-a3ee-5315eccf8dee__get_logs"
+    ]
+  }
+}
