@@ -11,7 +11,8 @@
       "Bash(npx tsc:*)",
       "Bash(npm run:*)",
       "mcp__Claude_Preview__preview_start",
-      "mcp__0a8a1ff4-bcd8-4603-a3ee-5315eccf8dee__get_logs"
+      "mcp__0a8a1ff4-bcd8-4603-a3ee-5315eccf8dee__get_logs",
+      "Bash(gh pr:*)"
     ]
   }
 }
